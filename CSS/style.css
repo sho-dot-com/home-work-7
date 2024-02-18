@@ -1,0 +1,279 @@
+.header-gp{
+    position: fixed;
+    top: 0;
+    left:0;
+    width: 100%;
+    z-index: 50;
+}
+.div-nav{
+     width: 1220px;
+   margin:0 auto;
+}
+
+
+  
+.flex-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.div-navigation {
+    display: flex;
+    align-items: center;
+}
+.nav-ul {
+    width: 601px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 195px;
+    
+}
+.fonts1{
+    font-size: 18px;
+    color: font-family: 'Inter', sans-serif;
+
+}
+.two::after {
+    content:'\2228';
+    display: inline-block;
+    margin-left: 5px;
+    
+}
+.one{
+    font-family: 'Cabin', sans-serif;
+    font-size: 18px;
+    color:  #FFFFFF;  
+}
+
+.blue-box{
+    width: 184px;
+    height: 65px;
+    background-color: #6B77E5;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 40px;
+}
+body{
+    padding-top: 165px;
+}
+.text-h {
+    width: 283px;
+    height: 86px;
+    justify-content: center;
+    text-align: center;
+    
+
+}
+
+.workprocess {
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    padding-bottom:  22px;
+    
+}
+.how-we{
+    
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+
+
+}
+
+.div-bg {
+    width: 1220px;
+    /* height: 510px; */
+    margin: 0 auto;
+
+}
+.text-h{
+    width: 283px;
+    margin: 0 auto;
+
+
+}
+.main-box {
+    width: 1220px;
+    display: flex;
+    margin-top: 41px;
+    margin-bottom: 60px;
+    /* flex-wrap: nowrap; */
+    
+   
+}
+.div-box{
+    width: 386px;
+    height: 383px;
+    position: relative;
+    text-align:center ;
+    background-color:  #F4F4F4;
+    padding-top: 58px;
+    margin-left: 30px;
+   
+   }
+
+.first {
+    width: 64.5px;
+    height: 64.5px;
+    background-color: #6B77E5;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #40DDB6;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    
+}
+.color1{
+    background-color: #6B77E5;
+    
+}
+.text-h2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    color:  #37393F;
+    padding-bottom: 16px;
+    
+}
+.text-p {
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    color:  #7D7D7D;
+    padding-bottom: 37px;
+    
+}
+
+.text-p1{
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    color: #6B77E5;
+    margin-bottom: 10px;
+}
+
+/* part two */
+
+.bg-image {
+    background-image: url(../image/Image111.jpg);
+    width: 100%;
+    height: 557px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+}
+.text-on-image {
+    width: 511px;
+    height: 270px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    
+}
+.play {
+    width: 64.5px;
+    height: 64.5px;
+    background-color: #6B77E5;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.Short Video {
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    color: #37393F; 
+    padding-bottom: 16px; 
+}
+.presentation {
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    color: #37393F;
+    padding-bottom: 21px;
+    
+}
+.p-tex {
+    font-family: 'Inter', sans-serif;
+    font-size: 18x;
+    color:  #37393F;
+    margin-bottom: 47px;
+    
+
+}
+
+/* part three */
+
+.part-three {
+    width: 1220px;
+    height: 659px;
+    margin: 0 auto;
+    margin-top: 130px;
+   
+}
+.three {
+    text-align: center;
+}
+.our-team{
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    color:  #37393F;
+    
+    
+}
+.meet{
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    color:  #37393F;
+    margin-top: 16px;
+    
+
+}
+.persons{
+   
+    width: 1220px;
+    height: 532px;
+    display:flex ;
+    justify-content: space-between;
+    margin-top: 41px;
+}
+
+.imagin{
+    width: 386px;
+    display: flex;
+    position: relative;
+}
+
+.box-up{
+    width: 341px;
+    height: 114px;
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 85%;
+    left: 50%;
+    transform: translate(-50% ,-50%);
+    text-align: center;
+    padding-top: 24px;
+    z-index: 111;}
+    
+    
+
+.nk{
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    color:#37393F;
+    padding-bottom: 4px;
+    
+}
+.MD {
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    color:  #7D7D7D;
+    
+}
